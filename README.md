@@ -17,6 +17,6 @@ var gws = require('gulp-ws');
 gulp.task('task', function () {
     return gulp.src('src/*')
         .pipe(gws({host: 'ws://localhost/'}))
-        .pipe(gutil.noop());
+        .pipe(gulp.dest('src/'));
 });
 ```
