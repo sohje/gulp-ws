@@ -1,6 +1,6 @@
 {
   "name": "gulp-ws",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Transfer files over WebSockets",
   "license": "MIT",
   "repository": {
