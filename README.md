@@ -20,3 +20,7 @@ gulp.task('task', function () {
         .pipe(gulp.dest('src/'));
 });
 ```
+
+## License
+
+MIT © [Nikolay Spiridonov](https://github.com/sohje)
