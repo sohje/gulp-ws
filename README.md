@@ -1,5 +1,5 @@
-# gulp-ws 
-[![npm version](https://badge.fury.io/js/gulp-ws.svg)](https://badge.fury.io/js/gulp-ws)
+# gulp-ws
+[![npm version](https://badge.fury.io/js/gulp-ws.svg)](https://badge.fury.io/js/gulp-ws) [![Build Status](https://travis-ci.org/sohje/gulp-ws.svg?branch=master)](https://travis-ci.org/sohje/gulp-ws)
 
 Transfer files over websockets
 
